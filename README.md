@@ -2,7 +2,7 @@
 This is a **Vue.js** web-app which helps you visualize sorting algorithms: Bubble, Selection and Insertion Sort.
 
 ## Live Demo
-https://sorting-visualizer-1729.herokuapp.com/
+https://sorting-visualizer-0007.herokuapp.com/
 
 ## Project setup
 ```
